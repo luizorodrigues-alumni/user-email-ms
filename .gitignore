@@ -1,0 +1,9 @@
+# Global ignore
+*.class
+*.log
+*.env
+*.idea
+*.iml
+target/
+build/
+.env
